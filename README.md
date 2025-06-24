@@ -1,7 +1,7 @@
 # Grocery App (CS-210 Project 3)
 
 > **Southern New Hampshire University – CS 210 Programming Languages**  
-> *Author: <Scott Leishman>* | *Term: <June 2025>*
+> *Author: <Scott_Leishman>* | *Term: <June 2025>*
 
 ---
 
