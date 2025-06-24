@@ -1,0 +1,11 @@
+# C++ / Visual Studio
+*.exe
+*.obj
+*.o
+*.idb
+*.pdb
+*.ilk
+.vs/
+build/
+Debug/
+Release/
