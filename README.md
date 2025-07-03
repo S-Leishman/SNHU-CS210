@@ -67,12 +67,3 @@ These apply directly to data-processing tasks in other courses or real-world job
 
 ---
 
-## 🏁 How to Build & Run
-```bash
-# Linux / macOS
-g++ -std=c++17 -Wall -Wextra -o GroceryApp main.cpp
-./GroceryApp
-
-# Windows (MinGW)
-g++ -std=c++17 -static -o GroceryApp.exe main.cpp
-GroceryApp.exe
